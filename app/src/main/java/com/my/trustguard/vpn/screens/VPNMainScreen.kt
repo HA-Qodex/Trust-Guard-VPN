@@ -92,7 +92,6 @@ fun VPNMainScreen(modifier: Modifier) {
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.SpaceBetween
         ) {
-            // Header
             Column(horizontalAlignment = Alignment.CenterHorizontally) {
                 Text(
                     "TrustGuard VPN",
