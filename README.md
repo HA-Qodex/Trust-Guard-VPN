@@ -7,11 +7,8 @@ TrustGuard focuses on fast connections, clean architecture, and real-time usage 
 These images are loaded from the `screenshots/` folder.
 
 <p align="center">
-  <img src="./screenshots/trust_guard_1.png" width="723" alt=""/>
-</p>
-
-<p align="center">
-  <img src="./screenshots/trust_guard_2.png" width="723" alt=""/>
+  <img src="./screenshots/trust_guard_1.png" height="723" alt=""/>
+  <img src="./screenshots/trust_guard_2.png" height="723" alt=""/>
 </p>
 
 ## Features
